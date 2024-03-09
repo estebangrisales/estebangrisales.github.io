@@ -1,51 +1,13 @@
-## Developer Portfolio Landing Page Template
+# Welcome to My Data Portfolio
 
-### Introduction
+#### Technical Skills: Excel, Power Bi, Looker Studio
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Curriculum Vitae						       		
+- [C.V English (PDF)](files/cv2.pdf)
+- [C.V Spanish (PDF)](files/cv1.pdf)
 
-<img src="images/demo.gif?raw=true"/>
+## Data Projects
+### 🍔 Análisis de datos de Comida a Domicilio - ¿Quién pide toda esta comida?
+[![Comida a domicilio al rescate](https://raw.githubusercontent.com/estebangrisales/estebangrisales.github.io/main/images/giphy.gif)](https://www.linkedin.com/pulse/comida-domicilio-al-rescate-esteban-grisales-twltc/?trackingId=ViH8lY%2BVQrOeurRtB%2F%2FNXg%3D%3D)
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+Realicé un análisis de 6 campañas de marketing para el desafío de Maven Analytics, con el objetivo de demostrar cómo se pueden mejorar los resultados de las campañas basándose en el análisis de datos. El estudio permitió identificar oportunidades de mejora y ofrecer información valiosa para futuras decisiones de marketing.
