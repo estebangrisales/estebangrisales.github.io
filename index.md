@@ -1,35 +1,13 @@
-## Portfolio
+# Welcome to My Data Portfolio
 
----
+#### Technical Skills: Excel, Power Bi, Looker Studio
 
-### Category Name 1 
+## Curriculum Vitae						       		
+- [C.V English (PDF)](files/cv2.pdf)
+- [C.V Spanish (PDF)](files/cv1.pdf)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Data Projects
+### 🍔 Análisis de datos de Comida a Domicilio - ¿Quién pide toda esta comida?
+[![Comida a domicilio al rescate](https://raw.githubusercontent.com/estebangrisales/estebangrisales.github.io/master/images/giphy.gif)](https://www.linkedin.com/pulse/comida-domicilio-al-rescate-esteban-grisales-twltc/?trackingId=ViH8lY%2BVQrOeurRtB%2F%2FNXg%3D%3D)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+Realicé un análisis de 6 campañas de marketing para el desafío de Maven Analytics, con el objetivo de demostrar cómo se pueden mejorar los resultados de las campañas basándose en el análisis de datos. El estudio permitió identificar oportunidades de mejora y ofrecer información valiosa para futuras decisiones de marketing.
